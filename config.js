@@ -16,12 +16,12 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
-global.packname = '© YahyaGanzz'
-global.gc = 'https://github.com/AzzBott679'
+global.owner = ['628886529913']
+global.premium = ['628886529913']
+global.ownername = 'CasperAgarii'
+global.botname = 'CazperBotzV2•MD'
+global.packname = '© CazperBotzV2'
+global.gc = 'https://github.com/Casperagario'
 global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
 global.linkgc = 'https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr'
 global.limitawal = '10'

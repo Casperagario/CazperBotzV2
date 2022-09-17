@@ -30,8 +30,8 @@ let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '10'
-botname = 'AzzBot•MD'
-wm = '© AzzBot - MD'
+botname = 'CazperBotzV2'
+wm = '© CazperBotzV2 - MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -661,7 +661,7 @@ addCountCmd(`#${command.slice(1)}`, sender, _cmd)
 ⌕ Script : https://github.com/AzzBott679
 
 Jangan lupa kasih bintang.
-⌕ Donate : 081511480762 (Dana / gopay)
+⌕ Donate : 08886529913 (Dana / gopay)
 ⌕ Saweria : Kaga ada
 ⌕ Paypal : kaga ada
 
